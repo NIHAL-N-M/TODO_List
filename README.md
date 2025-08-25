@@ -31,4 +31,4 @@ A modern, full-featured Todo List app built with React and Vite.
 - `public/` - Static assets
 
 ---
-Made with ❤️ using React + Vite
+Made with ❤️ using React + Vite by NIHAL N M.
